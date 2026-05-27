@@ -148,7 +148,7 @@ Step back from this one call and answer: who is the seller's target customer who
 - **Right buyer, in PULL terms.** Describe the ICP not as a demographic ("CTOs at Series B SaaS") but as a coherent PULL situation: what is their actionable Project, what makes it Unavoidable for them (the chain of so-whats), what options have they tried, what's the Limitation. Single coherent narrative, not four boxes. If this call's buyer didn't fit this profile, say where they diverged.
 - **Right pitch, in PULL terms.** Given that ICP, what should the seller's pitch be? One sentence. Should be the smallest possible supply that resolves the named Limitation.
 
-This is a hypothesis from one call, not a verdict — flag it as such. Max 120 words.
+Max 120 words.
 
 ## Output format constraints
 

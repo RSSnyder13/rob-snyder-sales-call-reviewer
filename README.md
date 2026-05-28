@@ -3,7 +3,8 @@
 A [Claude Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)
 that analyzes sales call transcripts using **Rob Snyder's PULL Framework**.
 
-The PULL Framework states that buyers would be weird to buy UNLESS they have a
+In a world of probabilities (aka: people who could possibly buy), the PULL framework is as close to deterministic as possible.
+It states that buyers would be weird to buy UNLESS they have a
 **P**roject on their to-do list that's **U**navoidable right now, and their
 **L**ist of available options have **L**imitations.
 

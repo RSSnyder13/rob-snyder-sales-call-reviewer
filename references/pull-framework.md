@@ -136,7 +136,7 @@ What does not count, regardless of how warm it sounded:
 - "This is interesting"
 - Any next step the seller suggested first
 
-## Common false positives (partial PULL traps)
+## Common false positives (fake PULL traps)
 
 These are the failure modes where the framework looks satisfied but isn't. Watch for them.
 
@@ -150,6 +150,6 @@ These are the failure modes where the framework looks satisfied but isn't. Watch
 
 **Dissatisfaction masquerading as L+L.** A buyer venting about how nothing works is not the same as having considered specific options with specific limitations. L+L requires named options and named failure modes, all relative to the specified P. Generalized frustration does not generate PULL — it generates conversation.
 
-**Interest masquerading as recognition.** "Interesting," "this looks great," "I like what you're doing" are interest-shaped responses, not recognition-shaped ones. Recognition sounds like "yes, this is exactly what we need" or "so this would solve [specific Limitation]" — language that connects supply to the named Project and Limitations. If the buyer is praising the product without connecting it to their situation, that's a flag.
+**Interest masquerading as recognition.** "Interesting," "this looks great," "I like what you're doing" are interest-shaped responses, not recognition-shaped ones. Recognition sounds like "yes, this is exactly what we need" or "so this would solve [specific Limitation]" — language that connects supply to the named Project and Limitations and . If the buyer is praising the product without connecting it to their situation, that's a flag.
 
 **Prompted next step masquerading as PULL action.** As above — if the seller suggested the next step first, even by hinting, it is not a PULL action.

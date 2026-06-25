@@ -41,7 +41,7 @@ Run this skill on the call's transcript, and you'll get an output like this (sho
 ## Repo structure
 
 ```
-pull-call-analyzer/
+(repo root)
 ├── SKILL.md                      # how to apply PULL to a transcript
 └── references/
     └── pull-framework.md         # canonical definition of PULL

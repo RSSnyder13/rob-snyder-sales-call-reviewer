@@ -1,6 +1,6 @@
 # Get Rob Snyder to Review Your Sales Calls (Sort Of)
 
-A skill that lets you paste a sales call transcript and get [*Rob Snyder's*](https://www.linkedin.com/in/rsnyder1) brutally honest feedback on it.
+A skill that lets you paste a sales call transcript and get [*Rob Snyder's*](https://www.linkedin.com/in/rsnyder1) brutally honest feedback on it. (Technically, the AI version of Rob, that Rob's obsessively built to get pretty darn close to his actual reviews.)
 
 If you're not sure whether the call went well, or it seemed to go well but they ghosted, or you feel like you could have done a better job but aren't sure what's most important, give it a try.
 

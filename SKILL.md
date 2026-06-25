@@ -1,6 +1,6 @@
 ---
-name: pull-call-analyzer
-description: "Analyze sales call transcripts using the PULL framework (Project, Unavoidable, List of options + Limitations) to diagnose whether a real demand-side force was present on the call, whether the seller surfaced and fit it, and what to change. Use this skill whenever the user shares a sales call, discovery call, demo, or pitch transcript and asks for analysis, diagnosis, a post-mortem, or feedback — even if they don't explicitly say \"PULL.\" Also use when the user asks \"why didn't this close,\" \"what went wrong on this call,\" \"did they have demand,\" \"what should I do with this deal,\" or anything similar about a sales conversation. Do not use generic sales advice; this skill replaces that with strict mechanistic analysis."
+name: rob-call-review
+description: "Analyze sales call transcripts using Rob Snyder's PULL framework (Project, Unavoidable, List of options + Limitations) to diagnose whether a real demand-side force was present on the call, whether the seller surfaced and fit it, and what to change. Use this skill whenever the user shares a sales call, discovery call, demo, or pitch transcript and asks for analysis, diagnosis, a post-mortem, or feedback — even if they don't explicitly say \"PULL.\" Also use when the user asks \"why didn't this close,\" \"what went wrong on this call,\" \"did they have demand,\" \"what should I do with this deal,\" or anything similar about a sales conversation. Do not use generic sales advice; this skill replaces that with strict mechanistic analysis."
 ---
 
 # PULL Call Analyzer
@@ -68,7 +68,7 @@ This is the target. Section 3 evaluates whether the seller's actual pitch hit it
 
 Five subsections. Each is short and evidence-bound.
 
-**3a. How your discovery? AKA: Did you actually look for PULL?**
+**3a. How effective was your discovery? AKA: Did you actually look for PULL?**
 
 Looking = asking discovery questions in which it would be weird if PULL didn't surface. Best practice is to ask:
 
@@ -81,7 +81,7 @@ When PULL surfaces - it usually surfaces as one part of the framework (e.g., jus
 
 **3b. Did you look for not(PULL)?**
 
-Looking for PULL is not the same as lookig for not(PULL). Looking for PULL is asking standard discovery questions. Looking for not(PULL) is the falsification move: asking the buyer questions designed to reveal absence of PULL — and watching the buyer argue for their own PULL in response.
+Looking for PULL is not the same as looking for not(PULL). Looking for PULL is asking standard discovery questions. Looking for not(PULL) is the falsification move: asking the buyer questions designed to reveal absence of PULL — and watching the buyer argue for their own PULL in response.
 
 A seller who tests PULL does some combination of:
 

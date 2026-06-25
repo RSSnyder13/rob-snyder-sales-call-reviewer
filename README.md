@@ -1,8 +1,8 @@
 # Get Rob Snyder to Review Your Sales Calls (Sort Of)
 
-A skill that lets you paste a sales call transcript and get [*Rob Snyder's*](https://www.linkedin.com/in/rsnyder1) brutally honest feedback on it. (Technically, the AI version of Rob, that Rob's obsessively built to get pretty darn close to his actual reviews.)
+A skill that lets you paste a sales call transcript and get [*Rob Snyder's*](https://www.linkedin.com/in/rsnyder1) brutally honest feedback on it. (Technically, the AI version of Rob that Rob's obsessively built to get pretty darn close to his actual reviews.)
 
-If you're not sure whether the call went well, or it seemed to go well but they ghosted, or you feel like you could have done a better job but aren't sure what's most important, give it a try.
+If you're not sure whether your sales call went well, or it seemed to go well but they ghosted, or you feel like you could have done a better job but aren't sure what's most important, give it a try.
 
 Unlike just having a generic AI review - which gets you feedback that sounds right, but almost never works because *something else turned out to be more important* - this skill encodes **Rob Snyder's PULL Framework**, which is a causal model of purchases that's caused 50+ startups to go $0-$1M+ ARR, including $0-$25M ARR in 2 years and $0-$6M ARR in 8 weeks.
 
@@ -10,7 +10,7 @@ The results will probably surprise you. Often you'll get feedback that you've be
 
 For more on Rob Snyder's PULL framework: buy his book [*The Power of PULL*](https://www.amazon.com/Power-Pull-Customer-Successful-Founders/dp/1541705955),
 read his newsletter [The Physics of Startups](https://thephysicsofstartups.substack.com/p/sales-problems-vs-product-market?utm_source=publication-search),
-or, if you want the real Rob to help you quickly figure out the best way to position and sell your product for fast growth, [work with Rob](https://robsnyder.org/work-with-me).
+or, if you want the real Rob to help you quickly figure out the best way to position and sell your product so you can grow fast, [work with Rob](https://robsnyder.org/work-with-me).
 
 ## What this skill does
 
@@ -29,7 +29,7 @@ You can see my actual live review of the call [*HERE*](https://www.youtube.com/w
 
 Run this skill on the call's transcript, and you'll get an output like this (shortened):
 
-> **PULL action: NO.** Every forward step was seller-prompted and seller-closed. The buyer's strongest move was deferring: *"we may not know yet till after maybe onboarding and even some time in the tool."*
+> **Did the buyer pull? NO.** Every forward step was seller-prompted and seller-closed. The buyer's strongest move was deferring: *"we may not know yet till after maybe onboarding and even some time in the tool."*
 >
 > **Some PULL was visible, but no U (urgency/unavoidability).** The Project and Limitations are named: *"the biggest thing slowing us down is just getting the right leads... it takes a lot of time."* But there's no forcing function. They started outbound a month ago, they're still warming up inboxes, and the buyer argues against their own urgency: *"It's hard to automate it too much at this point because we don't know what's working or not yet."* Nothing breaks if this stays manual another quarter.
 >
